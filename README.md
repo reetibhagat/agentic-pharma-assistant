@@ -6,7 +6,7 @@ An interactive, autonomous agent designed to assist with pharmacology questions 
 
 🌐 Web search with DuckDuckGo
 
-💬 Reasoning with Groq LLMs (Mixtral, LLaMA3)
+💬 Reasoning with  LLMs 
 
 🧠 Validation loop before generating the final response
 
