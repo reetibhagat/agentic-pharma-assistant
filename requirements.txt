@@ -1,0 +1,7 @@
+groq
+duckduckgo-search
+langchain
+tiktoken
+notebook
+ipykernel
+langchain-community
